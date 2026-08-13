@@ -58,6 +58,8 @@ classDiagram
     Account <|-- CheckingAccount
 ```
 
+<a href="screenshots/03-class-diagram.png"><img src="screenshots/03-class-diagram.png" width="500"></a>
+
 ## Instalación
 
 Clona el repositorio y entra en la carpeta del proyecto:
